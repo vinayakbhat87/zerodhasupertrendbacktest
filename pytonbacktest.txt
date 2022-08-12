@@ -1,0 +1,63 @@
+{'entry': 37568.6, 'exit': 37488.0, 'quantity': 25, 'bors': 'sell', 'pnl': 2014.9999999999636}
+{'entry': 37488.0, 'exit': 37537.0, 'quantity': 25, 'bors': 'buy', 'pnl': 1225.0}
+{'entry': 37537.0, 'exit': 37490.0, 'quantity': 25, 'bors': 'sell', 'pnl': 1175.0}
+{'entry': 37490.0, 'exit': 37647.85, 'quantity': 25, 'bors': 'buy', 'pnl': 3946.2499999999636}
+pnl for 2022-07-29 15:25:00 is =  8361.249999999927
+{'entry': 37667.85, 'exit': 37776.45, 'quantity': 25, 'bors': 'buy', 'pnl': 2714.9999999999636}
+{'entry': 37776.45, 'exit': 37824.0, 'quantity': 25, 'bors': 'sell', 'pnl': -1188.7500000000728}
+{'entry': 37824.0, 'exit': 37914.2, 'quantity': 50, 'bors': 'buy', 'pnl': 4509.9999999998545}
+{'entry': 37914.2, 'exit': 37752.05, 'quantity': 25, 'bors': 'sell', 'pnl': 4053.7499999998545}
+pnl for 2022-08-01 15:25:00 is =  10089.9999999996
+{'entry': 37868.2, 'exit': 37825.0, 'quantity': 25, 'bors': 'buy', 'pnl': -1079.9999999999272}
+{'entry': 37825.0, 'exit': 37772.95, 'quantity': 50, 'bors': 'sell', 'pnl': 2602.5000000001455}
+{'entry': 37772.95, 'exit': 37928.35, 'quantity': 25, 'bors': 'buy', 'pnl': 3885.0000000000364}
+{'entry': 37928.35, 'exit': 38001.7, 'quantity': 25, 'bors': 'sell', 'pnl': -1833.7499999999636}
+{'entry': 38001.7, 'exit': 38112.4, 'quantity': 50, 'bors': 'buy', 'pnl': 5535.000000000218}
+{'entry': 38112.4, 'exit': 37930.0, 'quantity': 25, 'bors': 'sell', 'pnl': 4560.000000000036}
+pnl for 2022-08-02 15:25:00 is =  13668.750000000546
+{'entry': 37950.15, 'exit': 37995.0, 'quantity': 25, 'bors': 'sell', 'pnl': -1121.2499999999636}
+{'entry': 37995.0, 'exit': 37878.75, 'quantity': 50, 'bors': 'buy', 'pnl': -5812.5}
+{'entry': 37878.75, 'exit': 37832.6, 'quantity': 100, 'bors': 'sell', 'pnl': 4615.0000000001455}
+{'entry': 37832.6, 'exit': 37778.85, 'quantity': 25, 'bors': 'buy', 'pnl': -1343.75}
+{'entry': 37778.85, 'exit': 37846.3, 'quantity': 50, 'bors': 'sell', 'pnl': -3372.5000000002183}
+{'entry': 37846.3, 'exit': 37870.0, 'quantity': 100, 'bors': 'buy', 'pnl': 2369.999999999709}
+{'entry': 37870.0, 'exit': 37887.1, 'quantity': 25, 'bors': 'sell', 'pnl': -427.4999999999636}
+{'entry': 37887.1, 'exit': 38162.3, 'quantity': 50, 'bors': 'buy', 'pnl': 13760.000000000218}
+pnl for 2022-08-03 15:25:00 is =  8667.499999999927
+{'entry': 38119.55, 'exit': 37575.0, 'quantity': 25, 'bors': 'sell', 'pnl': 13613.750000000073}
+{'entry': 37575.0, 'exit': 37658.0, 'quantity': 25, 'bors': 'buy', 'pnl': 2075.0}
+{'entry': 37658.0, 'exit': 37646.05, 'quantity': 25, 'bors': 'sell', 'pnl': 298.74999999992724}
+{'entry': 37646.05, 'exit': 37734.55, 'quantity': 25, 'bors': 'buy', 'pnl': 2212.5}
+{'entry': 37734.55, 'exit': 37849.7, 'quantity': 25, 'bors': 'sell', 'pnl': -2878.7499999998545}
+pnl for 2022-08-04 15:25:00 is =  15321.250000000146
+{'entry': 37984.05, 'exit': 38145.6, 'quantity': 25, 'bors': 'sell', 'pnl': -4038.749999999891}
+{'entry': 38145.6, 'exit': 38081.55, 'quantity': 50, 'bors': 'buy', 'pnl': -3202.4999999997817}
+{'entry': 38081.55, 'exit': 38066.9, 'quantity': 100, 'bors': 'sell', 'pnl': 1465.0000000001455}
+{'entry': 38066.9, 'exit': 37985.8, 'quantity': 25, 'bors': 'buy', 'pnl': -2027.4999999999636}
+{'entry': 37985.8, 'exit': 37890.0, 'quantity': 50, 'bors': 'sell', 'pnl': 4790.0000000001455}
+pnl for 2022-08-05 15:25:00 is =  -3013.749999999345
+{'entry': 37934.1, 'exit': 38118.25, 'quantity': 25, 'bors': 'buy', 'pnl': 4603.750000000036}
+{'entry': 38118.25, 'exit': 38241.7, 'quantity': 25, 'bors': 'sell', 'pnl': -3086.2499999999272}
+{'entry': 38241.7, 'exit': 38284.5, 'quantity': 50, 'bors': 'buy', 'pnl': 2140.0000000001455}
+{'entry': 38284.5, 'exit': 38329.85, 'quantity': 25, 'bors': 'sell', 'pnl': -1133.7499999999636}
+{'entry': 38329.85, 'exit': 38243.2, 'quantity': 50, 'bors': 'buy', 'pnl': -4332.500000000073}
+{'entry': 38243.2, 'exit': 38318.5, 'quantity': 100, 'bors': 'sell', 'pnl': -7530.000000000291}
+{'entry': 38318.5, 'exit': 38244.05, 'quantity': 100, 'bors': 'buy', 'pnl': -7444.999999999709}
+{'entry': 38244.05, 'exit': 38330.25, 'quantity': 100, 'bors': 'sell', 'pnl': -8619.999999999709}
+pnl for 2022-08-08 15:25:00 is =  -25403.74999999949
+{'entry': 38252.0, 'exit': 38388.1, 'quantity': 25, 'bors': 'sell', 'pnl': -3402.4999999999636}
+{'entry': 38388.1, 'exit': 38355.0, 'quantity': 50, 'bors': 'buy', 'pnl': -1654.9999999999272}
+{'entry': 38355.0, 'exit': 38402.3, 'quantity': 100, 'bors': 'sell', 'pnl': -4730.000000000291}
+{'entry': 38402.3, 'exit': 38365.0, 'quantity': 100, 'bors': 'buy', 'pnl': -3730.000000000291}
+{'entry': 38365.0, 'exit': 38408.0, 'quantity': 100, 'bors': 'sell', 'pnl': -4300.0}
+{'entry': 38408.0, 'exit': 38367.65, 'quantity': 100, 'bors': 'buy', 'pnl': -4034.9999999998545}
+{'entry': 38367.65, 'exit': 38751.05, 'quantity': 100, 'bors': 'sell', 'pnl': -38340.000000000146}
+pnl for 2022-08-10 15:25:00 is =  -60192.50000000047
+{'entry': 38849.95, 'exit': 38890.5, 'quantity': 25, 'bors': 'sell', 'pnl': -1013.7500000000728}
+{'entry': 38890.5, 'exit': 38919.55, 'quantity': 50, 'bors': 'buy', 'pnl': 1452.5000000001455}
+{'entry': 38919.55, 'exit': 38917.0, 'quantity': 25, 'bors': 'sell', 'pnl': 63.75000000007276}
+{'entry': 38917.0, 'exit': 38900.0, 'quantity': 25, 'bors': 'buy', 'pnl': -425.0}
+{'entry': 38900.0, 'exit': 38930.85, 'quantity': 50, 'bors': 'sell', 'pnl': -1542.4999999999272}
+{'entry': 38930.85, 'exit': 38900.05, 'quantity': 100, 'bors': 'buy', 'pnl': -3079.9999999995634}
+{'entry': 38900.05, 'exit': 38940.75, 'quantity': 100, 'bors': 'sell', 'pnl': -4069.999999999709}
+pnl for 2022-08-11 15:25:00 is =  -8614.999999999054
